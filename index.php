@@ -8,7 +8,7 @@
  <body>
  <h1>Sign in to Cards application</h1>
  <table>
- <form action="list.php" method="post">
+ <form action="login.php" method="post">
  <tr>
  <td>Username
  </td>
