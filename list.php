@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Lost</title>
+</head>
+
+<body>
 <?php
 session_start();
 if($_SESSION['username'] == 'username') {
@@ -29,3 +37,5 @@ if($_SESSION['username'] == 'username') {
  print("No access.");
 }
 ?>
+</body>
+</html>
