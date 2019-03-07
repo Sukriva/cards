@@ -6,6 +6,7 @@
 </head>
 
 <body>
+<h2>Hello</p>
 <?php
 session_start();
 if($_SESSION['username'] == 'username') {
